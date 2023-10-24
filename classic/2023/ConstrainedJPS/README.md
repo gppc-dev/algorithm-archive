@@ -1,4 +1,4 @@
-# Breif
+# Brief
 
 This code was submitted to the [GPPC^2](https://gppc.search-conference.org/) 2023 competition for the classic track.
 The details for this submission are as follows:
@@ -12,7 +12,7 @@ The details for this submission are as follows:
 
 If you find this code useful, the participant has asked to cite the following paper.
 
-	@inproceed`ings{zhao2023reducing,
+	@inproceedings{zhao2023reducing,
 	title={Reducing Redundant Work in Jump Point Search},
 	author={Zhao, Shizhe and Harabor, Daniel and Stuckey, Peter J},
 	booktitle={Proceedings of the International Symposium on Combinatorial Search},

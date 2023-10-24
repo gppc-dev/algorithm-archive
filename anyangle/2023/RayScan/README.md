@@ -1,4 +1,4 @@
-# Breif
+# Brief
 
 This code was submitted to the [GPPC^2](https://gppc.search-conference.org/) 2023 competition for the anyangle track.
 The details for this submission are as follows:
